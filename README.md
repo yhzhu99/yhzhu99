@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @TualatinX Yinghao Zhu (朱英豪)
-- 👀 I’m interested in playing Rubik's cubes, especially 3x3 and 2x2
-- 🌱 I’m currently learning 3d web development techniques
-- 📫 Reach me at this email: (yhzhu99 [at] gmail [dot] com)
+### Hi, I’m @yhzhu99 Yinghao Zhu (朱英豪) 👋
 
-<!---
-TualatinX/TualatinX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/yhzhu99"><img src="https://komarev.com/ghpvc/?username=yhzhu99" alt="yhzhu99" /></a>
+<a href="https://github.com/yhzhu99?tab=followers"><img src="https://img.shields.io/github/followers/yhzhu99"></a>
+<a href="mailto:yhzhu99@gmail.com"><img src="https://img.shields.io/badge/Email-yhzhu99@gmail.com-pink" alt="Email" /></a>
+
+- 👀 I’m interested in playing Rubik's cubes, especially 3x3 and 2x2
+
+![yhzhu99's github stats](https://github-readme-stats.vercel.app/api?username=yhzhu99&show_icons=true&count_private=true&hide=prs)
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/yhzhu99/yhzhu99@output/github-contribution-grid-snake-dark.gif)](https://github.com/yhzhu99)
