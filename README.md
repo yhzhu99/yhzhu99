@@ -7,10 +7,8 @@
 
   <p>
     <a href="mailto:yhzhu99@gmail.com"><img src="https://img.shields.io/badge/Email-yhzhu99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://scholar.google.com/citations?user=LYrsSoEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-LYrsSoEAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4285F4" alt="Google Scholar"/></a>
-    <a href="https://www.worldcubeassociation.org/persons/2013ZHUY01"><img src="https://img.shields.io/badge/WCA_ID-2013ZHUY01-orange?style=for-the-badge&logo=worldcubeassociation&logoColor=white&labelColor=orange" alt="WCA Profile"/></a>
+    <a href="https://scholar.google.com/citations?user=LYrsSoEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4285F4" alt="Google Scholar"/></a>
     <a href="https://yhzhu99.github.io/"><img src="https://img.shields.io/badge/Website-yhzhu99.github.io-3cb371?style=for-the-badge&logo=FirefoxBroswer&logoColor=white&labelColor=3cb371" alt="Personal Website"/></a>
-    <!-- Note: Changed website badge color slightly for better harmony & a more generic browser logo -->
   </p>
 
   <p>
