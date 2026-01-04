@@ -12,16 +12,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/yhzhu99">
-      <img src="https://github-readme-stats.vercel.app/api?username=yhzhu99&show_icons=true&count_private=true&hide=prs&theme=catppuccin_latte&border_radius=10&card_width=490" alt="Yinghao's GitHub Stats" />
-    </a>
-    <a href="https://github.com/yhzhu99">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhzhu99&layout=compact&langs_count=8&theme=catppuccin_latte&border_radius=10&card_width=300" alt="Top Languages" />
-      <!-- Adjusted card_width for potential side-by-side display; might need tweaking based on actual rendering -->
-    </a>
-  </p>
-
-  <p>
     🧩 Beyond coding & research, I'm a Rubik's Cube enthusiast (3x3, 2x2)!
     <br/>
     Check my <a href="https://www.worldcubeassociation.org/persons/2013ZHUY01">WCA Profile: 2013ZHUY01</a>.
